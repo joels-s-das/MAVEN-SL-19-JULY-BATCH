@@ -24,7 +24,7 @@ public class MyCalc {
 	}
 	public void branch()
 	{
-		System.out.println("Hello from Master Branch, Hello GitHub Actions");
+		System.out.println("Hello from Master Branch, Hello GitHub Actions, Hello from Slave2");
 	}
 
 	public static void main(String[] args) {
